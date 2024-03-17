@@ -1,0 +1,18 @@
+QPushButton {
+    background-color: skyblue;
+    color: black;
+    border-radius: 10px;
+}
+
+QPushButton:hover {
+    background-color: white;
+    color: skyblue;
+}
+
+#incorrectBttn {
+    background-color: red; color: white;
+    }
+
+#incorrectBttn:hover {
+    background-color: white; color: red;
+    }
